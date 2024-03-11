@@ -1,0 +1,23 @@
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    top: -20px;
+    left: -5px;
+}
+
+.body1{
+    text-indent: 20px;
+    position: absolute;
+    left: 20%;
+    max-width: 155px;
+}
+
+.body2{
+    text-indent: 20px;
+    position: absolute;
+    right: 20%;
+    max-width: 155px;
+}
